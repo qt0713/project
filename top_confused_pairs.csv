@@ -1,0 +1,7 @@
+true_class,pred_class,count
+color,grayscale,486
+segmented,grayscale,430
+segmented,color,413
+color,segmented,131
+grayscale,color,17
+grayscale,segmented,2
