@@ -20,7 +20,7 @@ pip install -r requirements_modular.txt
 
 ```python
 import os
-os.chdir(r"g:/plantvillage dataset")
+os.chdir(r"plantvillage dataset")
 ```
 
 - 若 `inception_resnet_v2` 报错，安装 `timm`：
